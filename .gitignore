@@ -1,0 +1,4 @@
+ErgoDOX pcb/rescue-backup/**
+*.zip
+*bak
+*cache
