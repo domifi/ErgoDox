@@ -6,5 +6,3 @@ This variation of the design has a two main goals:
 * Keep the rest of the design as unchanged as possible.
   - The idea is that most case designs should still be compatible (with at most minor adjustments)
 
-
-**See our [Releases](https://github.com/Ergodox-io/ErgoDox/releases) for details**
