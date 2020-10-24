@@ -1,3 +1,4 @@
 ErgoDOX pcb/rescue-backup/**
 *.zip
 *bak
+_autosave*
